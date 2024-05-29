@@ -1,0 +1,14 @@
+setup.py
+./ivipcv/ops/csrc/pytorch/cross_pool.cpp
+./ivipcv/ops/csrc/pytorch/cross_pool_cuda.cu
+./ivipcv/ops/csrc/pytorch/pybind.cpp
+ivipcv/__init__.py
+ivipcv.egg-info/PKG-INFO
+ivipcv.egg-info/SOURCES.txt
+ivipcv.egg-info/dependency_links.txt
+ivipcv.egg-info/not-zip-safe
+ivipcv.egg-info/top_level.txt
+ivipcv/ops/__init__.py
+ivipcv/ops/cross_pool.py
+ivipcv/utils/__init__.py
+ivipcv/utils/ext_loader.py
